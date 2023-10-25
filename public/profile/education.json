@@ -1,0 +1,15 @@
+{
+    "education":[
+        {
+            "title": "2018 - 2023",
+            "cardTitle": "Bachelor, Computer Science",
+            "cardSubtitle":"Ahmad Dahlan University, City",
+            "cardDetailedText": "GPA - 3.23",
+            "icon" : {
+                "src": "images/education/logo.png"
+            }
+        }
+       
+        
+    ]
+}
