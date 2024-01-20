@@ -1,33 +1,49 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Full Stack Developer",
+            "subtitle": "Kingwewen Store",
+            "workType": "Personal Website",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Create and Implementation Design User Interface to HTML, CSS, and Javascript.",
+                "API Integration with PHP and Codeigniter 4 as Framework.",
+                "Make TikTok Account to advertise Kingwewenstore.com"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "Apr 2023 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Database Programming with SQL",
+            "subtitle": "Oracle Academy",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Learn about Data and Information.",
+                "Learn about Database Design. ",
+                "Has successfully completed all Coursework from Oracle Academy. "
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "Jul 2022 – Aug 2022"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Full Stack Developer",
+            "subtitle": "Ministry of Religion",
+            "workType": "Internship",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Analyze user requirements into system design analyze and design system performance flowchart in detail.",
+                "Create Database based on data from System Analysis process.",
+                "Create a Website with PHP Native",
+                "Make Presentation in front of Section Chief"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "Aug 2021 – Dec 2021"
+        },
+        {
+            "title": "Back End Developer",
+            "subtitle": "PT. Gramasurya Yogyakarta",
+            "workType": "Internship",
+            "workDescription": [
+                "Analyzing user requirements into system design analyze and design system performance flowchart in detail.",
+                "Work closely with the database division in designing flowcharts and database designs.",
+                "Make a system design based on the results of the analysis with PHP and Codeigniter 3 as a framework"
+            ],
+            "dateText": "Jan 2021 – Jul 2021"
         }
     ]
 }
