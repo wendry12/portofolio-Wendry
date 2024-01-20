@@ -5,8 +5,6 @@
             "cardTitle": "Bachelor, Computer Science",
             "cardSubtitle":"Ahmad Dahlan University, City",
             "cardDetailedText": "GPA - 3.23",
-            "cardDetailedText": "Thesis Title: Implementation of the Earliest Due Date and Shortest Processing Time Methods in Determining PT. Gramasurya Yogyakarta",
-            "cardDetailedText": "Relevant Coursework: Dinamic Website Programming, Software Engineering, Web Engineering",
             "icon" : {
                 "src": "images/education/logo.png"
             }

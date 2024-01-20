@@ -25,13 +25,13 @@
             "title": "Experience",
             "href": "/experience"
         },
-        {
-            "title": "Projects",
-            "href": "/projects"
-        },
+        // {
+        //     "title": "Projects",
+        //     "href": "/projects"
+        // },
         {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "href": "https://drive.google.com/file/d/1WU2q3Ec0GR5dZcdelg4GPdcLdCuFEXCV/view?usp=sharing",
             "type": "link"
         }
     ]
