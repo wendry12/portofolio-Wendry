@@ -1,7 +1,7 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portofolio.jpg",
+            "image" : "images/projects/portofolio.jpeg",
             "title": "Web Portfolio",
             "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "links": [
@@ -21,7 +21,7 @@
             ]
         },
         {
-            "image" : "images/projects/kingwewen.jpg",
+            "image" : "images/projects/kingwewen.jpeg",
             "title": "Kingwewen Store -  Digital Product Website",
             "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
             "links": [
@@ -41,7 +41,7 @@
             ]
         },
         {
-            "image" : "images/projects/kemenag.jpg",
+            "image" : "images/projects/kemenag.jpeg",
             "title": "Hajj and Umrah website for the Ministry of Religion",
             "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
             "tags" : [
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "image" : "images/projects/gramasurya.jpg",
+            "image" : "images/projects/gramasurya.jpeg",
             "title": "System Information Production PT. Gramasurya Yogyakarta",
             "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
             "tags" : [
