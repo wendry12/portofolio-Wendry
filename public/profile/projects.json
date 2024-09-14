@@ -24,12 +24,6 @@
             "image" : "images/projects/kingwewen.jpeg",
             "title": "Kingwewen Store -  Digital Product Website",
             "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
-            "links": [
-                {
-                    "text": "Live",
-                    "href": "http://kingwewenstore.com"
-                }
-            ],
             "tags" : [
                 "Python",
                 "Django",

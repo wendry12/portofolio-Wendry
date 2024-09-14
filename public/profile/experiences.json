@@ -1,6 +1,17 @@
 {
     "experiences": [
         {
+            "title": "Odoo ERP Programmer",
+            "subtitle": "SGEEDE Batam",
+            "workType": "On Site",
+            "workDescription": [
+                "Implementation Design User Interface with HTML, CSS, and Javascript for Client Side.",
+                "Create Logic with Python for Server Side.",
+                "Create Rest API",
+                "Configure Database for Project"
+            ],
+            "dateText": "Jun 2024 – Aug 2024"
+        },{
             "title": "Full Stack Developer",
             "subtitle": "Kingwewen Store",
             "workType": "Personal Website",
@@ -9,7 +20,7 @@
                 "API Integration with PHP and Codeigniter 4 as Framework.",
                 "Make TikTok Account to advertise Kingwewenstore.com"
             ],
-            "dateText": "Apr 2023 – Present"
+            "dateText": "Apr 2023 – Apr 2024"
         },
         {
             "title": "Database Programming with SQL",
